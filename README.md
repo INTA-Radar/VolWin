@@ -29,7 +29,6 @@ Instalar el comando sed en Windows, se puede descargar y ver como se utiliza des
  - Cygwin: http://cygwin.com/
  - GnuWin32: http://gnuwin32.sourceforge.net/
  - MSYS-MinGw: http://www.mingw.org/wiki/msys 
-
-Las pruebas realizadas con UnxUtils (http://unxutils.sourceforge.net/) no funcionaron bajo Windows 7.
+ - UnxUtils: http://unxutils.sourceforge.net/ (Las pruebas realizadas no funcionaron bajo Windows XP).
 
 Luego se deben descargar los scripts que se encuentran en: https://github.com/INTA-Radar/Vol 
