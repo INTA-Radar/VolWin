@@ -24,4 +24,12 @@ Para instalar gdal correctamente bajo Windows se recomienda seguir el siguiente 
 
 Agregar a la variable PATH el directorio donde se instaló Python.
 
+Instalar el comando sed en Windows, se puede descargar y ver como se utiliza desde:
+ 
+ - Cygwin: http://cygwin.com/
+ - GnuWin32: http://gnuwin32.sourceforge.net/
+ - MSYS-MinGw: http://www.mingw.org/wiki/msys 
+
+Las pruebas realizadas con UnxUtils (http://unxutils.sourceforge.net/) no funcionaron bajo Windows 7.
+
 Luego se deben descargar los scripts que se encuentran en: https://github.com/INTA-Radar/Vol 
