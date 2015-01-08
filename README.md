@@ -22,4 +22,6 @@ Todos estos complementos se pueden descargar desde: http://www.lfd.uci.edu/~gohl
 
 Para instalar gdal correctamente bajo Windows se recomienda seguir el siguiente tutorial: http://cartometric.com/blog/2011/10/17/install-gdal-on-windows/ 
 
+Agregar a la variable PATH el directorio donde se instaló Python.
+
 Luego se deben descargar los scripts que se encuentran en: https://github.com/INTA-Radar/Vol 
